@@ -22,11 +22,11 @@ namespace Labs_6_semester
                 new Actor("Dasha", "Korob", new DateTime(2001, 10, 8), new string[]{"Horror", "Comedy", "Romane"}, "Ж", 4, 2, 6.9),
                 new Actor("Vano", "Vantuz", new DateTime(2001, 10, 8), new string[]{"Horror", "Comedy", "Romane"}, "М", 3, 3, 7)
             });
-            actors.SortDependentFilmsFIO();
-            actors.PrintDehendentBirthday();
-            actors.PopularActor();
-            actors.MaxMarkAmongMen();
-            actors.GroupAll();
+            //actors.SortDependentFilmsFIO();
+            //actors.PrintDehendentBirthday();
+            //actors.PopularActor();
+            //actors.MaxMarkAmongMen();
+            //actors.GroupAll();
 
             //21
             //XmlSerializer xmlSerializer = new XmlSerializer(typeof(Actor));

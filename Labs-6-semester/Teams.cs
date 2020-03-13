@@ -10,7 +10,6 @@ namespace Labs_6_semester
     {
         static List<string> fTeam = new List<string>();
         static List<string> sTeam = new List<string>();
-
         static readonly object obj1 = new object();
         static readonly object obj2 = new object();
 
